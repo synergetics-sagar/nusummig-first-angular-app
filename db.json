@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "User Sirname",
+      "email": "user@example.com",
+      "age": 25,
+      "active": "true"
+    },
+    {
+      "id": "2",
+      "name": "Another User",
+      "email": "another.user@example.com",
+      "age": 30,
+      "active": false
+    },
+    {
+      "id": "3",
+      "name": "New User",
+      "email": "new.user@example.com",
+      "age": 35,
+      "active": true
+    },
+    {
+      "id": "1740301133253",
+      "name": "sagar",
+      "email": "sagar@example.com",
+      "age": "12",
+      "active": false
+    }
+  ]
+}

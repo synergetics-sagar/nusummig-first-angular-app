@@ -1,0 +1,8 @@
+
+<h3>Signup Form</h3>
+<form [formGroup]="myForm" (submit)="handleSubmit()">
+    <input type="text" placeholder="Name" formControlName="name" /> <br>
+    <input type="text" placeholder="Email" formControlName="email" /> <br>
+    <input type="text" placeholder="Age" formControlName="age" /> <br>
+    <button>Submit</button>
+</form>
